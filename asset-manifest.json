@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/groceries/static/css/main.1ebcf57e.css",
+    "main.js": "/groceries/static/js/main.7c329b8a.js",
+    "static/js/453.90a21e08.chunk.js": "/groceries/static/js/453.90a21e08.chunk.js",
+    "static/media/image2.jpg": "/groceries/static/media/image2.b81b2adce4194dcb6920.jpg",
+    "static/media/image3.jpg": "/groceries/static/media/image3.054f827c875aef97f42e.jpg",
+    "static/media/image4.jpg": "/groceries/static/media/image4.419c8cda0ec19f85302d.jpg",
+    "static/media/image15.jpg": "/groceries/static/media/image15.186c195841197399206f.jpg",
+    "static/media/image14.jpg": "/groceries/static/media/image14.fa5fb57eb3350db529eb.jpg",
+    "static/media/image6.jpg": "/groceries/static/media/image6.fa5fb57eb3350db529eb.jpg",
+    "static/media/image13.jpg": "/groceries/static/media/image13.4abcf866f5e11f6bd970.jpg",
+    "static/media/image9.jpg": "/groceries/static/media/image9.e64e462fd40ef65c54ac.jpg",
+    "static/media/image16.jpg": "/groceries/static/media/image16.7a898846460ed7aae1df.jpg",
+    "static/media/image8.jpg": "/groceries/static/media/image8.cd50f68ec83362e52d59.jpg",
+    "static/media/image7.jpg": "/groceries/static/media/image7.cdc0e98b1c1c41838de2.jpg",
+    "static/media/image10.jpg": "/groceries/static/media/image10.2692945329d26b17abea.jpg",
+    "static/media/image5.jpg": "/groceries/static/media/image5.2692945329d26b17abea.jpg",
+    "static/media/image11.jpg": "/groceries/static/media/image11.72745ea4fbbdf895e547.jpg",
+    "static/media/image12.jpg": "/groceries/static/media/image12.0f5adcbc21220373343e.jpg",
+    "static/media/image20.svg": "/groceries/static/media/image20.f5fd77ce15091d29ba9e7fe5064265d2.svg",
+    "static/media/image21.svg": "/groceries/static/media/image21.9ed6fe6d9d5760f198bfb6e2d0aaa548.svg",
+    "static/media/image1.png": "/groceries/static/media/image1.7ddfa3ebdb8eed559e03.png",
+    "static/media/slick.svg": "/groceries/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/groceries/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/groceries/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/groceries/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/groceries/index.html",
+    "main.1ebcf57e.css.map": "/groceries/static/css/main.1ebcf57e.css.map",
+    "main.7c329b8a.js.map": "/groceries/static/js/main.7c329b8a.js.map",
+    "453.90a21e08.chunk.js.map": "/groceries/static/js/453.90a21e08.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1ebcf57e.css",
+    "static/js/main.7c329b8a.js"
+  ]
+}
